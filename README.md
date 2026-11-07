@@ -1,16 +1,40 @@
 ## Hi there 👋
+# Hi, I'm Shraddha Zade 👋
 
-<!--
-**shraddhazade23-lab/shraddhazade23-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Industrial IoT Engineering Student
 
-Here are some ideas to get you started:
+I'm an aspiring technology professional interested in IoT, Software Development, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Python
+- Advanced SQL
+- Data Analytics
+- HTML, CSS, JavaScript
+- Firebase
+- Internet of Things (IoT)
+- Embedded Systems
+
+### 🚀 Projects
+- Smart Heart Rate Monitor – Python, Streamlit and IoT
+- Sensor-Lab – Interactive Learning Platform
+- CraftBazaar – Handmade Products Marketplace
+- Multi-Sensor System – PIC18F47Q10 Microcontroller
+
+### 📜 Internship
+- Data Analytics with advanced SQL Internship at NR Solution
+- Industrial IOT at Sateroid Innovation Pvt. ltd
+
+### 🌱 Currently Learning
+- Python
+- Software Development
+- Cloud Technologies
+
+### 🎯 Career Interests
+IoT | Data Analytics | Software Development | Automation
+
+### 📫 Connect With Me
+- GitHub: https://github.com/shraddhazade23-lab
+
+---
+⭐ Thanks for visiting my profile!
+
